@@ -12,3 +12,4 @@ $ cd rails-react-exercise
 $ gem install rails
 $ rails new . -d postgresql --api -T
 ```
+Editamos o database.yml para conectar ao PostgreSQL no ambiente de desenvolvimento e teste. b1aa193a62aac34d8bebee3335884b952c60ff1d
